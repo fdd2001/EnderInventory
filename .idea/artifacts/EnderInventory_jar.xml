@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="EnderInventory:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EnderInventory_jar</output-path>
+    <root id="archive" name="EnderInventory.jar">
+      <element id="module-output" name="EnderInventory" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>

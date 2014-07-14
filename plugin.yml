@@ -1,0 +1,11 @@
+name: EnderInventory
+version: 1.0
+author: fdd2001
+main: me.fdd2001.ei.Main
+commands:
+    get:
+        description: Gets all the items out of your enderchest and stores them in your inventory. Clears your inventory!
+        usage: /<command>
+    clearec:
+        description: Clears your ender chest.
+        usage: /<command>
